@@ -1,7 +1,6 @@
-
 # React + Vite
 
-# Todo-Management
+Todo Management System
 
 To run this code, you need to clone this branch in to your system.
 
