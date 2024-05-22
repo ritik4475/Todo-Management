@@ -6,7 +6,7 @@ To run this code, you need to clone this branch in to your system.
 
 Check your current folder location, 
 
-if you are in 'todomanager', then its good
+if you are in 'Todo-Management', then its good
 
 otherwise type 'cd todomanger'
 
